@@ -3,7 +3,7 @@
 <p align="left"> 
 I'm <strong>Vishal</strong>, a student and a programmer passionate about technology and productivity. I started my programming journey with Java and also worked with <strong>frontend development</strong> (HTML5, CSS3 and Bootstrap) and <strong>mobile app development</strong> (Native Android with Java and Flutter).
 
-Today I work mostly with Flutter and also focusing on learning JavaScript and React.
+Today I work mostly with Flutter, Node.js, Express and MongoDB and also looking forward to learn React and DevOps.
 </p>
 
 <p align="left">
