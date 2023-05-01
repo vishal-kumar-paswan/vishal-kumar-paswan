@@ -7,11 +7,11 @@ Today I work mostly with Flutter, Node.js, Express and MongoDB and also looking 
 </p>
 
 <p align="left">
-  👨‍💻 <strong>Skills:</strong> Java, C, C++, HTML5, CSS3, Bootstrap, Dart, Flutter, Native Android Development.
+  👨‍💻 <strong>Skills:</strong> Java, C, C++, HTML5, CSS3, Bootstrap, Dart, Flutter, Native Android Development, Node.js, Express, RESTful APIs, MongoDB / Atlas, Firebase.
 </p>
 
 <p align="left">
-  💼 <strong>Tools:</strong> Visual Studio Code, Android Studio, IntelliJ Idea, Git, GitHub.
+  💼 <strong>Tools:</strong> Visual Studio Code, Android Studio, IntelliJ Idea, Postman, Git, GitHub, Vercel.
 </p>
 
 <p align="left">
