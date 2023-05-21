@@ -7,7 +7,7 @@ Today I work mostly with Flutter, Node.js, Express and MongoDB and also looking 
 </p>
 
 <p align="left">
-  👨‍💻 <strong>Skills:</strong> Java, C, C++, HTML5, CSS3, Bootstrap, Dart, Flutter, Native Android Development, Node.js, Express, RESTful APIs, MongoDB / Atlas, Firebase.
+  👨‍💻 <strong>Skills:</strong> Java, C, C++, HTML5, CSS3, Bootstrap, Dart, Flutter, Native Android Development, JavaScript, Node.js, Express, RESTful APIs, MongoDB / Atlas, Firebase.
 </p>
 
 <p align="left">
