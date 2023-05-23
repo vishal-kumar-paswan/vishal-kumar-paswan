@@ -15,12 +15,14 @@ Today I work mostly with Flutter, Node.js, Express and MongoDB and also looking 
 </p>
 
 <p align="left">
-  💌 If you want to collaborate with me (or have a small talk), feel free to mail me at kumarpaswanvishal@gmail.com
+  📩 If you want to collaborate or have a talk over a cup of tea, feel free to mail me at kumarpaswanvishal@gmail.com
 </p>
 
 <img align="left" alt="Flutter" height=20px width="50px"  src="flutter.png" />
 
 <img align="left" alt="Android" height=23px width="30px"  src="android.png" />
+
+<img align="left" alt="GitHub" width="32px" src="nodejs.png" />
 
 <img align="left" alt="Visual Studio Code" width="26px" src="visual-studio-code.png" />
 
@@ -29,4 +31,3 @@ Today I work mostly with Flutter, Node.js, Express and MongoDB and also looking 
 <img align="left" alt="Git" width="26px" src="git.png" />
 
 <img align="left" alt="GitHub" width="26px" src="github.png" />
-
