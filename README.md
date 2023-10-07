@@ -21,8 +21,8 @@ Today I work mostly with Flutter, Node.js, Express and MongoDB and also looking 
 
 
 <div>   
-   <img src="https://github-readme-stats-omega-six-40.vercel.app/api?username=vishal-kumar-paswan&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" width="45%"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-kumar-paswan&theme=transparent&hide_border=false" width="45%"/>
+   <img src="https://github-readme-stats-omega-six-40.vercel.app/api?username=vishal-kumar-paswan&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" width="48%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-kumar-paswan&theme=transparent&hide_border=false" width="48%"/>
 </div>
 
 <!-- <img align="left" alt="Flutter" height=20px width="65px"  src="https://imgur.com/08gDpPU.png" /> 
