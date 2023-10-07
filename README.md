@@ -12,7 +12,7 @@ Today I work mostly with Flutter, Node.js, Express and MongoDB and also looking 
 </p>
 
 <p align="left">
-  💼 <strong>Tools:</strong> Visual Studio Code, Android Studio, IntelliJ Idea, Postman, Git, GitHub, Vercel.
+  💼 <strong>Tools:</strong> Visual Studio Code, Android Studio, IntelliJ Idea, Postman, Git, GitHub, Vercel, Ngrok.
 </p>
 
 <p align="left">
