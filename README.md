@@ -19,7 +19,13 @@ Today I work mostly with Flutter, Node.js, Express and MongoDB and also looking 
   📩 If you want to collaborate or have a talk over a cup of tea, feel free to mail me at kumarpaswanvishal@gmail.com
 </p>
 
-<img align="left" alt="Flutter" height=20px width="65px"  src="https://imgur.com/08gDpPU.png" />
+
+<div>   
+   <img src="https://github-readme-stats-omega-six-40.vercel.app/api?username=vishal-kumar-paswan&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" width="45%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-kumar-paswan&theme=transparent&hide_border=false" width="45%"/>
+</div>
+
+<!-- <img align="left" alt="Flutter" height=20px width="65px"  src="https://imgur.com/08gDpPU.png" /> 
 
 <img align="left" alt="Android" height="23px" width="35px"  src="https://imgur.com/cjzYVqE.png" />
 
@@ -31,4 +37,5 @@ Today I work mostly with Flutter, Node.js, Express and MongoDB and also looking 
 
 <img align="left" alt="Git" height="30px" width="30px" src="https://imgur.com/Ha7Nfli.png" />
 
-<img align="left" alt="GitHub" width="28px" src="https://imgur.com/0CVf3up.png" />
+<img align="left" alt="GitHub" width="28px" src="https://imgur.com/0CVf3up.png" /> -->
+
