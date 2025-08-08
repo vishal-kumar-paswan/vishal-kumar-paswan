@@ -7,7 +7,7 @@ Today I'm working in Tata Consultancy Services(TCS) as a Systems Engineer and I 
 </p>
 
 <p align="left">
-  👨‍💻 <strong>Skills:</strong> Java, C, C++, HTML5, CSS3, Bootstrap, Dart, Flutter, Native Android Development, JavaScript, Node.js, Express, RESTful APIs, MongoDB / Atlas, Firebase.
+  👨‍💻 <strong>Skills:</strong> Java, C++, Dart, JavaScript, Flutter, MERN Stack, RESTful APIs, GraphQL, SASS.
 </p>
 
 <p align="left">
